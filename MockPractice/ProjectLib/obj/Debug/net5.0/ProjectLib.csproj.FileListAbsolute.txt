@@ -1,0 +1,15 @@
+D:\RookiesActive\UnitTest\MockPractice\ProjectLib\obj\Debug\net5.0\ProjectLib.csprojAssemblyReference.cache
+D:\RookiesActive\UnitTest\MockPractice\ProjectLib\obj\Debug\net5.0\ProjectLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\RookiesActive\UnitTest\MockPractice\ProjectLib\obj\Debug\net5.0\ProjectLib.AssemblyInfoInputs.cache
+D:\RookiesActive\UnitTest\MockPractice\ProjectLib\obj\Debug\net5.0\ProjectLib.AssemblyInfo.cs
+D:\RookiesActive\UnitTest\MockPractice\ProjectLib\obj\Debug\net5.0\ProjectLib.csproj.CoreCompileInputs.cache
+D:\RookiesActive\UnitTest\MockPractice\ProjectLib\bin\Debug\net5.0\ProjectLib.deps.json
+D:\RookiesActive\UnitTest\MockPractice\ProjectLib\bin\Debug\net5.0\ProjectLib.runtimeconfig.json
+D:\RookiesActive\UnitTest\MockPractice\ProjectLib\bin\Debug\net5.0\ProjectLib.runtimeconfig.dev.json
+D:\RookiesActive\UnitTest\MockPractice\ProjectLib\bin\Debug\net5.0\ProjectLib.dll
+D:\RookiesActive\UnitTest\MockPractice\ProjectLib\bin\Debug\net5.0\ref\ProjectLib.dll
+D:\RookiesActive\UnitTest\MockPractice\ProjectLib\bin\Debug\net5.0\ProjectLib.pdb
+D:\RookiesActive\UnitTest\MockPractice\ProjectLib\obj\Debug\net5.0\ProjectLib.dll
+D:\RookiesActive\UnitTest\MockPractice\ProjectLib\obj\Debug\net5.0\ref\ProjectLib.dll
+D:\RookiesActive\UnitTest\MockPractice\ProjectLib\obj\Debug\net5.0\ProjectLib.pdb
+D:\RookiesActive\UnitTest\MockPractice\ProjectLib\obj\Debug\net5.0\ProjectLib.genruntimeconfig.cache
